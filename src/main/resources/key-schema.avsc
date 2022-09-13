@@ -1,0 +1,14 @@
+{
+  "type": "record",
+  "name": "TeacherKey",
+  "namespace": "com.example.demo.schema",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "subjectName",
+      "type": "string"
+    }]
+}
